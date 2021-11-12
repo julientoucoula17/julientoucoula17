@@ -23,11 +23,12 @@ Ask me anything <a href="https://github.com/julientoucoula17/julientoucoula17/is
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julientoucoula17&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Julientoucoula17's Github Stats" />
 
 
----
+</div>
 
-<i>Follow me around the web:</i><br>
+<br />
+<hr>
+<div align="center">
+  <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/julien-t-870b7613a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-
-</div>
+  </div>
